@@ -64,6 +64,7 @@ button,label.b{display:block;width:100%;box-sizing:border-box;text-align:center;
 <header>YapeGuard</header>
 <main>
 __PANEL__
+<div class=card style="background:#fff3b0"><b>Llama al dueño</b> si el resultado no es COINCIDE, si algo te parece raro o si el monto es alto.<br><a href="tel:+51999999999">📞 999 999 999</a></div>
 <div class=card><h3>Verificar comprobante</h3>
 <label class=b>Tomar foto o elegir captura<input type=file id=f accept="image/*" hidden></label>
 <img id=prev><button id=bv>Verificar</button><div id=r></div></div>
